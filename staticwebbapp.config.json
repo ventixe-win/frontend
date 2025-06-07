@@ -1,0 +1,10 @@
+{
+    "navigationFaillback": {
+        "rewrite": "/index.html",
+        "exclude": [
+            "/api/*",
+            "/static/*",
+            "/assets/*"
+        ]
+    }
+}
